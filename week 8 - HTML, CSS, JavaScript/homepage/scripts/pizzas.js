@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Peperoni', img:'templates/images/mozzarella.png', prices:[65.50, 75.50, 100.50],  sizes:['(30cm)', '(35cm)','(40cm)'], description:'Elaborado con mozzarella fresca, tomates, orégano y aceitunas negras'},
+    {id:2, name:'Salami', img:'templates/images/margherita.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Elaborado con Mozzarella, Tomates San Marzano, Albahaca Fresca y Aceite de Oliva Extra Virgen'},
+    {id:3, name:'Champiñones', img:'templates/images/mushroom.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Hecho con mozzarella, champiñones frescos, tomates, pimientos y aceitunas negras'},
+    {id:4, name:'Vegetariana', img:'templates/images/broccoli.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Hecho con mozzarella, brócoli fresco, tomates, champiñones, aceitunas negras y catupirii'},
+    {id:5, name:'Salchicha', img:'templates/images/toscana.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Hecho con mozzarella, tomates, brócoli picado, maíz, pimientos, pimientos rojos y aceitunas negras'},
+    {id:6, name:'Pastor', img:'templates/images/home-style-pizza.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Hecho con mozzarella, tomates, champiñones, albahaca fresca, brócoli picado, maíz, pimientos, pimiento rojo y aceitunas negras'},
+    {id:7, name:'Chocolate', img:'templates/images/chocolate.png', prices:[65.50, 75.50, 100.50], sizes:['(30cm)','(35cm)','(40cm)'], description:'Hecho con chocolate picado, nutel y confeti'}
+];
